@@ -10,13 +10,24 @@ Microsoft Activation Scripts (MAS) is an open-source tool that enables activatio
 ## Table of Contents
 
 <div align="center">
-  [![Introduction](https://img.shields.io/badge/Introduction-blue?style=flat-square)](#introduction)
-  [![Features](https://img.shields.io/badge/Features-blue?style=flat-square)](#features)
-  [![Installation](https://img.shields.io/badge/Installation-blue?style=flat-square)](#installation)
-  [![Usage](https://img.shields.io/badge/Usage-blue?style=flat-square)](#usage)
-  [![Activation Summary](https://img.shields.io/badge/Activation_Summary-blue?style=flat-square)](#activation-methods-summary)
-  [![Troubleshooting](https://img.shields.io/badge/Troubleshooting-blue?style=flat-square)](#troubleshooting)
- 
+  <a href="#introduction">
+    <img src="https://img.shields.io/badge/Introduction-blue?style=flat-square" alt="Introduction">
+  </a>
+  <a href="#features">
+    <img src="https://img.shields.io/badge/Features-blue?style=flat-square" alt="Features">
+  </a>
+  <a href="#installation">
+    <img src="https://img.shields.io/badge/Installation-blue?style=flat-square" alt="Installation">
+  </a>
+  <a href="#usage">
+    <img src="https://img.shields.io/badge/Usage-blue?style=flat-square" alt="Usage">
+  </a>
+  <a href="#activation-methods-summary">
+    <img src="https://img.shields.io/badge/Activation%20Summary-blue?style=flat-square" alt="Activation Summary">
+  </a>
+  <a href="#troubleshooting">
+    <img src="https://img.shields.io/badge/Troubleshooting-blue?style=flat-square" alt="Troubleshooting">
+  </a>
 </div>
 
 ---
