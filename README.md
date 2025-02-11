@@ -159,8 +159,6 @@ If you encounter issues during activation, consider the following steps:
 
 ---
 
-
-
 *Happy Activating!*
 
 
