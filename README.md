@@ -92,7 +92,7 @@ Microsoft Activation Scripts (MAS) is an all-in-one tool designed to simplify th
   ```
   If the above command fails, try the alternative:
   ```powershell
-  irm https://backup.activated.win | iex
+  irm https://massgrave.dev/get | iex
   ```
 *Note:* The commands above use `irm` (Invoke-RestMethod) to fetch and execute the activation scripts. Always ensure you trust the source before executing remote scripts.
 
